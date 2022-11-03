@@ -111,6 +111,10 @@ body * {
     box-shadow: 0px 0px 10px 2px #00ff8052;
 }
 
+.bnt-login:hover{
+    background-color: #00d873;
+}
+
 @media only screen and (max-width: 950px){
     .card-login{
         width: 80%
